@@ -86,6 +86,7 @@ public class GestionCredito implements IGestion
             capaDatos.capaDatos.Conectar();
             capaDatos.capaDatos.IniciarTransaccion();
             capaDatos.capaDatos.Ejecutar("Select Credito");
+           //capaDatos.capaDatos.Ejecutar(" Credito");
             capaDatos.capaDatos.ConfirmarTransaccion();
         } 
         catch (Exception e) 

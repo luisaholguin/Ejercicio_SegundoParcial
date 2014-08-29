@@ -9,8 +9,8 @@ package Gestion;
 import Datos.capaDatos;
 
 /**
- *
- * @authora: Luisa Holguin C
+ * EjercicioProgramacion
+ * @authora: Luisa Holguin
  */
 public class GestionAlumno implements IGestion 
 {
